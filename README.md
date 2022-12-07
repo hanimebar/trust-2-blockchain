@@ -1,4 +1,4 @@
-# Check the PDF file for the images
+# Check the PDF file for the images and links
 
 # H6 Onion
 x) Read and summarize (briefly, e.g. with some bullets)
